@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekbr25
-- 👀 I’m interested in !frontend
+- 👀 I’m interested in !CSS
 - 🌱 I’m currently learning brainfuck
 - 💞️ I’m looking to collaborate on backend projects.
 - 📫 How to reach me : [X𓆙](https://x.com/abhishekBR25)  [ln](https://www.linkedin.com/in/abhishek-kumar-71b871168/) ps. i hate both
