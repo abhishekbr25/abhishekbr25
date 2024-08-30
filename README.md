@@ -1,10 +1,7 @@
--  Hi, I’m @abhishekbr25
--  not interested in CSS
--  MERN
--  currently learning websockets
--  looking to collaborate on backend projects.
--  How to reach me : [X](https://x.com/abhishekBR25)  [ln](https://www.linkedin.com/in/abhishek-kumar-71b871168/) ps. i hate both
--  Fun fact: i think i am god
+-  Hi, I’m abhishek
+-  MERN  
+-  How to reach me : [X](https://x.com/abhishekBR25)____[ln](https://www.linkedin.com/in/abhishek-kumar-71b871168/)  
+ 
 
 <!---
 abhishekbr25/abhishekbr25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
